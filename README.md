@@ -1,7 +1,9 @@
 ## Just want simple happy 🎈
-📫 How to reach me: SuperHappyMax18@gmail.com <br/>
-😄 Pronouns: happy <br/>
-⚡ Fun fact: i am not happy <br/>
+- 📫 How to reach me: SuperHappyMax18@gmail.com
+- 😄 Pronouns: happy
+- ⚡ Fun fact: i am not happy
+- 📝 I regularly chat on Telegram [https://t.me/CryptoHappyBoy](https://t.me/CryptoHappyBoy)
+  
 ### 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
 
