@@ -4,6 +4,9 @@
 - ⚡ Fun fact: i am not happy
 - 🐦 X : [@CryptoHappyBoy](https://twitter.com/CryptoHappyBoy)
 - ☎ TG : [CryptoHappyBoy](https://t.me/CryptoHappyBoy)
+
+### 🫡 about me
+I have been engaged in Java server development for 4 years. I am tired of complicated business logic. Thanks to the emergence of Rust, I have the opportunity to participate in low-level computer-oriented coding work instead of business-oriented coding work.
   
 ### 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
