@@ -6,12 +6,12 @@
 - ☎ TG : [CryptoHappyBoy](https://t.me/CryptoHappyBoy)
 
 ## 🧏‍♂️ About me
-I have been engaged in Java server development for 4 years. 
-I am tired of complicated business logic. 
-Thanks to the emergence of Rust, I have the opportunity to participate in low-level computer-oriented coding work instead of business-oriented coding work.
-I am not a happy person, there are many things in this world that make me unhappy: war, disease, parting, old age.
-Coding can make you indulge in it and get short-term happiness.
-Peace~
+I have been engaged in Java server development for 4 years. <br/>
+I am tired of complicated business logic. <br/>
+Thanks to the emergence of Rust, I have the opportunity to participate in low-level computer-oriented coding work instead of business-oriented coding work. <br/>
+I am not a happy person, there are many things in this world that make me unhappy: war, disease, parting, old age. <br/>
+Coding can make me addicted,Can let me live a short-lived happiness,i enjoy it all. <br/>
+I am ruster,Peace~ <br/>
   
 ## 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
