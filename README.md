@@ -1,5 +1,4 @@
 ## Just want simple happy 🎈
-- 📫 How to reach me: SuperHappyMax18@gmail.com
 - 😄 Pronouns: happy
 - ⚡ Fun fact: i am not happy
 - 🐦 X : [@CryptoHappyBoy](https://twitter.com/CryptoHappyBoy)
