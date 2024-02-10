@@ -1,7 +1,7 @@
 ## Just want simple happy 🎈
 - 😄 Pronouns: happy
 - ⚡ Fun fact: i am not happy
-- 🐦 X : [@CryptoHappyBoy](https://twitter.com/CryptoHappyBoy)
+- 🐦 X : [@CryptoHappyBoy](https://twitter.com/0xhappyboy_)
 - ☎ TG : [CryptoHappyBoy](https://t.me/CryptoHappyBoy)
 
 ## 🧏‍♂️ About me
