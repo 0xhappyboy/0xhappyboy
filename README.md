@@ -2,8 +2,7 @@
 - 😄 Pronouns: happy
 - ⚡ Fun fact: i am not happy
 - 🐦 X : [@CryptoHappyBoy](https://twitter.com/0xhappyboy_)
-- ☎ TG : [CryptoHappyBoy](https://t.me/CryptoHappyBoy)
-
+  
 ## 🧏‍♂️ About me
 I have been engaged in Java server development for 4 years. <br/>
 I am tired of complicated business logic. <br/>
