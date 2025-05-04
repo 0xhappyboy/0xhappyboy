@@ -1,7 +1,7 @@
 ## Just want simple happy 🎈
 - 😄 Pronouns: happy
 - ⚡ Fun fact: i am not happy
-- 🐦 X : [@CryptoHappyBoy](https://twitter.com/0xhappyboy_)
+- 🐦 X : [@0xhappyboy_](https://twitter.com/0xhappyboy_)
   
 ## 🧏‍♂️ About me
 I have been engaged in Java server development for 4 years. <br/>
