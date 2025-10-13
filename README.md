@@ -10,7 +10,7 @@
 - LuminMQ : [luminmq](https://github.com/0xhappyboy/luminmq)
 - Luminengine : [luminengine](https://github.com/0xhappyboy/luminengine)
 - Arbitrage : [arbitrage](https://github.com/0xhappyboy/arbitrage)
-- Aptos Network SDK : [aptos-network-sdk](https://github.com/aptos-network-sdk)
+- Aptos Network SDK : [aptos-network-sdk](https://github.com/0xhappyboy/aptos-network-sdk)
 - Sui Network SDK : [sui-network-sdk](https://github.com/0xhappyboy/sui-network-sdk)
 - Bitcoin SDK : [bitcoin-sdk](https://github.com/0xhappyboy/bitcoin-sdk)
 - Trader SDK : [trade-sdk](https://github.com/0xhappyboy/trade-sdk)
