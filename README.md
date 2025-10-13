@@ -8,12 +8,12 @@
 - Meteora SDK : [solana-trader](https://github.com/0xhappyboy/meteora-sdk)
 - Orca SDK : [solana-trader](https://github.com/0xhappyboy/orca-sdk)
 - LuminMQ : [luminmq](https://github.com/0xhappyboy/luminmq)
-- Luminengine : [luminmq](https://github.com/0xhappyboy/luminengine)
-- Arbitrage : [luminmq](https://github.com/0xhappyboy/arbitrage)
-- Aptos Network SDK : [sui-network-sdk](https://github.com/aptos-network-sdk)
+- Luminengine : [luminengine](https://github.com/0xhappyboy/luminengine)
+- Arbitrage : [arbitrage](https://github.com/0xhappyboy/arbitrage)
+- Aptos Network SDK : [aptos-network-sdk](https://github.com/aptos-network-sdk)
 - Sui Network SDK : [sui-network-sdk](https://github.com/0xhappyboy/sui-network-sdk)
-- Bitcoin SDK : [solana-trader](https://github.com/0xhappyboy/bitcoin-sdk)
-- Trader SDK : [solana-trader](https://github.com/trade-sdk)
+- Bitcoin SDK : [bitcoin-sdk](https://github.com/0xhappyboy/bitcoin-sdk)
+- Trader SDK : [trade-sdk](https://github.com/trade-sdk)
 
 ## 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
