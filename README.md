@@ -13,7 +13,7 @@
 - Aptos Network SDK : [aptos-network-sdk](https://github.com/aptos-network-sdk)
 - Sui Network SDK : [sui-network-sdk](https://github.com/0xhappyboy/sui-network-sdk)
 - Bitcoin SDK : [bitcoin-sdk](https://github.com/0xhappyboy/bitcoin-sdk)
-- Trader SDK : [trade-sdk](https://github.com/trade-sdk)
+- Trader SDK : [trade-sdk](https://github.com/0xhappyboy/trade-sdk)
 
 ## 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
