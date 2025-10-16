@@ -2,7 +2,7 @@
 - 🐦 X : [@0xhappyboy_](https://twitter.com/0xhappyboy_)
 
 ## 🧱 Scaffold
-- tauri2-scaffold : [cryptohero](https://github.com/0xhappyboy/tauri2-scaffold)
+- tauri2-scaffold : [tauri2-scaffold](https://github.com/0xhappyboy/tauri2-scaffold)
   
 ## 🛠️ Working
 - cryptohero : [cryptohero](https://github.com/0xhappyboy/cryptohero)
