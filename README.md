@@ -5,7 +5,7 @@
 - tauri2-scaffold : [tauri2-scaffold](https://github.com/0xhappyboy/tauri2-scaffold)
   
 ## 🛠️ Working
-- cryptohero : [cryptohero](https://github.com/0xhappyboy/cryptohero)
+- Luminliquid : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
 - LuminMQ : [luminmq](https://github.com/0xhappyboy/luminmq)
 - Luminengine : [luminengine](https://github.com/0xhappyboy/luminengine)
 - Solana Trader SDK : [solana-trader](https://github.com/0xhappyboy/solana-trader)
