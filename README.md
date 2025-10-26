@@ -18,7 +18,7 @@
 - Aptos Network SDK : [aptos-network-sdk](https://github.com/0xhappyboy/aptos-network-sdk)
 - Sui Network SDK : [sui-network-sdk](https://github.com/0xhappyboy/sui-network-sdk)
 - Bitcoin SDK : [bitcoin-sdk](https://github.com/0xhappyboy/bitcoin-sdk)
-- Kaspa SDK : [bitcoin-sdk](https://github.com/0xhappyboy/kaspa-sdk)
+- Kaspa SDK : [kaspa-sdk](https://github.com/0xhappyboy/kaspa-sdk)
 - Trader SDK : [trade-sdk](https://github.com/0xhappyboy/trade-sdk)
 
 ## 👀 Overview
