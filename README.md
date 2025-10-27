@@ -28,11 +28,16 @@
 - Kaspa SDK : [kaspa-sdk](https://github.com/0xhappyboy/kaspa-sdk)
 
 #### DApp SDK
-- Raydium SDK : [solana-trader](https://github.com/0xhappyboy/raydium-sdk)
-- Pump SDK : [solana-trader](https://github.com/0xhappyboy/pump-sdk)
-- Meteora SDK : [solana-trader](https://github.com/0xhappyboy/meteora-sdk)
-- Orca SDK : [solana-trader](https://github.com/0xhappyboy/orca-sdk)
+- Raydium SDK : [Raydium SDK](https://github.com/0xhappyboy/raydium-sdk)
+- Pump SDK : [Pump SDK](https://github.com/0xhappyboy/pump-sdk)
+- Meteora SDK : [Meteora SDK](https://github.com/0xhappyboy/meteora-sdk)
+- Orca SDK : [Orca SDK](https://github.com/0xhappyboy/orca-sdk)
 
+### Front-end UI components
+
+- Candleview : [candleview](https://github.com/0xhappyboy/candleview)
+- orderbook : [orderbook](https://github.com/0xhappyboy/orderbook)
+  
 ## 🧱 Scaffold
 - tauri2-scaffold : [tauri2-scaffold](https://github.com/0xhappyboy/tauri2-scaffold)
 
