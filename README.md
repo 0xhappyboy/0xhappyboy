@@ -1,9 +1,6 @@
 ## ☎️ Contact
 - 🐦 X : [@0xhappyboy_](https://twitter.com/0xhappyboy_)
 
-## 🧱 Scaffold
-- tauri2-scaffold : [tauri2-scaffold](https://github.com/0xhappyboy/tauri2-scaffold)
-  
 ## 🛠️ Working
 
 ### Main Project
@@ -11,8 +8,12 @@
 - Luminliquid : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
 - Luminengine : [luminengine](https://github.com/0xhappyboy/luminengine)
 - LuminMQ : [luminmq](https://github.com/0xhappyboy/luminmq)
-  
-### Block Chain
+
+### Other Project
+
+- x402 SDK : [x402-sdk](https://github.com/0xhappyboy/x402-sdk)
+
+### Block Chain Project
 
 #### Trade SDK
 - Trader SDK (Encapsulation of cex transaction port.) : [trade-sdk](https://github.com/0xhappyboy/trade-sdk)
@@ -31,6 +32,9 @@
 - Pump SDK : [solana-trader](https://github.com/0xhappyboy/pump-sdk)
 - Meteora SDK : [solana-trader](https://github.com/0xhappyboy/meteora-sdk)
 - Orca SDK : [solana-trader](https://github.com/0xhappyboy/orca-sdk)
+
+## 🧱 Scaffold
+- tauri2-scaffold : [tauri2-scaffold](https://github.com/0xhappyboy/tauri2-scaffold)
 
 ## 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
