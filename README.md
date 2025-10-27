@@ -5,9 +5,9 @@
 
 ### Main Project
 
-- Luminliquid : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
-- Luminengine : [luminengine](https://github.com/0xhappyboy/luminengine)
-- LuminMQ : [luminmq](https://github.com/0xhappyboy/luminmq)
+- Luminliquid (Financial transaction terminal) : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
+- Luminengine (Order book matching engine) : [luminengine](https://github.com/0xhappyboy/luminengine)
+- LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
 
 ### Other Project
 
