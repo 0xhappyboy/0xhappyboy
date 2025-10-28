@@ -28,7 +28,9 @@
 - Kaspa SDK : [kaspa-sdk](https://github.com/0xhappyboy/kaspa-sdk)
 
 #### DApp SDK
+- Uniswap SDK : [Uniswap-sdk](https://github.com/0xhappyboy/uniswap-sdk)
 - Raydium SDK : [Raydium SDK](https://github.com/0xhappyboy/raydium-sdk)
+- Pancakeswap SDK : [Pancakeswap SDK](https://github.com/0xhappyboy/pancakeswap-sdk)
 - Pump SDK : [Pump SDK](https://github.com/0xhappyboy/pump-sdk)
 - Meteora SDK : [Meteora SDK](https://github.com/0xhappyboy/meteora-sdk)
 - Orca SDK : [Orca SDK](https://github.com/0xhappyboy/orca-sdk)
