@@ -7,6 +7,7 @@
 
 - Luminliquid (Financial transaction terminal) : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
 - Luminengine (Order book matching engine) : [luminengine](https://github.com/0xhappyboy/luminengine)
+- Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
 - LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
 
 ### Other Project
@@ -15,10 +16,6 @@
 
 ### Block Chain Project
 
-#### Trade SDK
-- Trader SDK (Encapsulation of cex transaction port.) : [trade-sdk](https://github.com/0xhappyboy/trade-sdk)
-- Arbitrage : [arbitrage](https://github.com/0xhappyboy/arbitrage)
-
 #### Network SDK
 - Evm SDK : [evm-sdk](https://github.com/0xhappyboy/evm-sdk)
 - Solana SDK : [solana-network-sdk](https://github.com/0xhappyboy/solana-network-sdk)
@@ -26,6 +23,13 @@
 - Sui Network SDK : [sui-network-sdk](https://github.com/0xhappyboy/sui-network-sdk)
 - Bitcoin SDK : [bitcoin-sdk](https://github.com/0xhappyboy/bitcoin-sdk)
 - Kaspa SDK : [kaspa-sdk](https://github.com/0xhappyboy/kaspa-sdk)
+
+#### Cex SDK
+
+- Binance SDK : [binance-sdk](https://github.com/0xhappyboy/binance-sdk)
+- Hyperliquid SDK : [hyperliquid-sdk](https://github.com/0xhappyboy/hyperliquid-sdk)
+- Aster SDK : [aster-sdk](https://github.com/0xhappyboy/aster-sdk)
+- Bitget SDK : [bitget-sdk](https://github.com/0xhappyboy/bitget-sdk)
 
 #### DApp SDK
 - Uniswap SDK : [Uniswap-sdk](https://github.com/0xhappyboy/uniswap-sdk)
