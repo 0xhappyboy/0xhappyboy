@@ -10,6 +10,11 @@
 - Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
 - LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
 
+### Front-end UI components
+
+- Candleview : [candleview](https://github.com/0xhappyboy/candleview)
+- orderbook : [orderbook](https://github.com/0xhappyboy/orderbook)
+
 ### Other Project
 
 - x402 SDK : [x402-sdk](https://github.com/0xhappyboy/x402-sdk)
@@ -38,11 +43,6 @@
 - Pump SDK : [Pump SDK](https://github.com/0xhappyboy/pump-sdk)
 - Meteora SDK : [Meteora SDK](https://github.com/0xhappyboy/meteora-sdk)
 - Orca SDK : [Orca SDK](https://github.com/0xhappyboy/orca-sdk)
-
-### Front-end UI components
-
-- Candleview : [candleview](https://github.com/0xhappyboy/candleview)
-- orderbook : [orderbook](https://github.com/0xhappyboy/orderbook)
   
 ## 🧱 Scaffold
 - tauri2-scaffold : [tauri2-scaffold](https://github.com/0xhappyboy/tauri2-scaffold)
