@@ -14,7 +14,7 @@
 
 - Candleview : [candleview](https://github.com/0xhappyboy/candleview)
 - orderbook : [orderbook](https://github.com/0xhappyboy/orderbook)
-- MultiPanel : [orderbook](https://github.com/0xhappyboy/multi-panel)
+- MultiPanel : [MultiPanel](https://github.com/0xhappyboy/multi-panel)
 
 ### Other Project
 
