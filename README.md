@@ -12,7 +12,7 @@
 
 ### Front-end UI components
 
-- Candleview : [candleview](https://github.com/0xhappyboy/candleview)
+- CandleView : [candleview](https://github.com/0xhappyboy/CandleView)
 - orderbook : [orderbook](https://github.com/0xhappyboy/orderbook)
 - MultiPanel : [MultiPanel](https://github.com/0xhappyboy/multi-panel)
 
