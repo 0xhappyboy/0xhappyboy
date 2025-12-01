@@ -9,10 +9,10 @@
 - Luminengine (Order book matching engine) : [luminengine](https://github.com/0xhappyboy/luminengine)
 - Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
 - LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
+- candleview (A data visualization chart and graph drawing engine for the financial industry) : [candleview](https://github.com/0xhappyboy/candleview)
 
 ### Front-end UI components
 
-- candleview : [candleview](https://github.com/0xhappyboy/candleview)
 - orderbook : [orderbook](https://github.com/0xhappyboy/orderbook)
 - multi-panel : [multipanel](https://github.com/0xhappyboy/multi-panel)
 
