@@ -48,6 +48,7 @@
 ## 🧱 Scaffold
 - tauri2-scaffold : [tauri2-scaffold](https://github.com/0xhappyboy/tauri2-scaffold)
 - frontend-component-scaffold : [frontend-component-scaffold](https://github.com/0xhappyboy/frontend-component-scaffold)
-
+- typescript-scaffold : [typescript-scaffold](https://github.com/0xhappyboy/typescript-scaffold)
+- 
 ## 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
