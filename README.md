@@ -11,6 +11,9 @@
 - Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
 - LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
 
+### AI Agent
+
+- ohlcv AI (AI agents focused on processing financial data (ohlcv).) : [ohlcv-ai](https://github.com/0xhappyboy/ohlcv-ai)
 
 ### Front-end UI components
 
