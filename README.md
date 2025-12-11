@@ -55,6 +55,7 @@
 - typescript-scaffold : [typescript-scaffold](https://github.com/0xhappyboy/typescript-scaffold)
 - nextra-docs-scaffold : [nextra-docs-scaffold](https://github.com/0xhappyboy/nextra-docs-scaffold)
 - service4j-scaffold : [service4j-scaffold](https://github.com/0xhappyboy/service4j-scaffold)
+- nextjs-scaffold : [nextjs-scaffold](https://github.com/0xhappyboy/nextjs-scaffold)
 
 ## 👀 Overview
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy)](https://github.com/ryo-ma/github-profile-trophy)
