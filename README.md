@@ -26,6 +26,10 @@
 
 - x402 SDK : [x402-sdk](https://github.com/0xhappyboy/x402-sdk)
 
+### Fun Projects
+
+- aichat (A terminal-based AI chat application, based on <a href="https://github.com/ratatui/ratatui">ratatui</a>) : [aichat](https://github.com/0xhappyboy/aichat)
+
 ### Block Chain Project
 
 #### Network SDK
