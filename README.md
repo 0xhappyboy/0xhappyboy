@@ -28,7 +28,7 @@
 
 ### Fun Projects
 
-- aichat (A terminal-based AI chat application, based on <a href="https://github.com/ratatui/ratatui">ratatui</a>) : [aichat](https://github.com/0xhappyboy/aichat)
+- aichat (A terminal-based AI chat application, by <a href="https://github.com/ratatui/ratatui">ratatui</a> @ratatui) : [aichat](https://github.com/0xhappyboy/aichat)
 
 ### Block Chain Project
 
