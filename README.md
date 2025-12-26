@@ -2,7 +2,8 @@
 - 🐦 X : [@0xhappyboy_](https://twitter.com/0xhappyboy_)
 - 📦 Crates : [0xhappyboy](https://crates.io/users/0xhappyboy)
 - ⚙️ Npm : [happyboy_](https://www.npmjs.com/~happyboy_)
- 
+- 📧 E-Mail : [superhappyboy1995@gmail.com](mailto:superhappyboy1995@gmail.com)
+
 ## 🛠️ Working
 
 ### Main Project
