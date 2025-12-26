@@ -14,7 +14,7 @@
 - Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
 - LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
 
-### system tools
+### System Tools
 
 - xtop (a monitoring tool focused on operating system resources and performance.) : [xtop](https://github.com/0xhappyboy/xtop)
 - xnet (a analysis and monitoring tool focused on the network domain.) : [xnet](https://github.com/0xhappyboy/xnet)
