@@ -14,6 +14,15 @@
 - Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
 - LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
 
+### system tools
+
+- xtop (a monitoring tool focused on operating system resources and performance.) : [xtop](https://github.com/0xhappyboy/xtop)
+- xnet (a analysis and monitoring tool focused on the network domain.) : [xnet](https://github.com/0xhappyboy/xnet)
+
+### Fun Projects
+
+- aichat (A terminal-based AI chat application, by <a href="https://github.com/ratatui/ratatui">ratatui</a>) : [aichat](https://github.com/0xhappyboy/aichat)
+
 ### AI Agent
 
 - ohlcv AI (AI agents focused on processing financial data (ohlcv).) : [ohlcv-ai](https://github.com/0xhappyboy/ohlcv-ai)
@@ -26,10 +35,6 @@
 ### Other Project
 
 - x402 SDK : [x402-sdk](https://github.com/0xhappyboy/x402-sdk)
-
-### Fun Projects
-
-- aichat (A terminal-based AI chat application, by <a href="https://github.com/ratatui/ratatui">ratatui</a>) : [aichat](https://github.com/0xhappyboy/aichat)
 
 ### Block Chain Project
 
