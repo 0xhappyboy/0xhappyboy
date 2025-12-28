@@ -19,6 +19,7 @@
 - xtop (a monitoring tool focused on operating system resources and performance.) : [xtop](https://github.com/0xhappyboy/xtop)
 - xnet (a analysis and monitoring tool focused on the network domain.) : [xnet](https://github.com/0xhappyboy/xnet)
 - xfile (a tool focused on file system analysis and management.) : [xfile](https://github.com/0xhappyboy/xfile)
+- xgpu (a monitoring tool focused on GPU resources and performance.) : [xgpu](https://github.com/0xhappyboy/xgpu)
 
 ### Fun Projects
 
