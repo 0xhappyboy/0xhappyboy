@@ -24,7 +24,7 @@
 
 ### Desktop Software
 
-- gitnote (a note-taking system based on Git version control.) : [xspider](https://github.com/0xhappyboy/gitnote)
+- gitnote (a note-taking system based on Git version control.) : [gitnote](https://github.com/0xhappyboy/gitnote)
 
 ### Fun Projects
 
