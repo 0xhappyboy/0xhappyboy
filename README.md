@@ -22,6 +22,10 @@
 - xgpu (a monitoring tool focused on GPU resources and performance.) : [xgpu](https://github.com/0xhappyboy/xgpu)
 - xspider (a web crawler.) : [xspider](https://github.com/0xhappyboy/xspider)
 
+### Desktop Software
+
+- gitnote (a note-taking system based on Git version control.) : [xspider](https://github.com/0xhappyboy/gitnote)
+
 ### Fun Projects
 
 - aichat (A terminal-based AI chat application, by <a href="https://github.com/ratatui/ratatui">ratatui</a>) : [aichat](https://github.com/0xhappyboy/aichat)
