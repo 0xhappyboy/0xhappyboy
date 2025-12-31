@@ -30,6 +30,10 @@
 
 - aichat (A terminal-based AI chat application, by <a href="https://github.com/ratatui/ratatui">ratatui</a>) : [aichat](https://github.com/0xhappyboy/aichat)
 
+### Crates
+
+- atomic-plus (type extensions for the atomic standard library.) : [atomic-plus](https://github.com/0xhappyboy/atomic-plus)
+
 ### AI Agent
 
 - ohlcv AI (AI agents focused on processing financial data (ohlcv).) : [ohlcv-ai](https://github.com/0xhappyboy/ohlcv-ai)
