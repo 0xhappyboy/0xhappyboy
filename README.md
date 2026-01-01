@@ -43,6 +43,10 @@
 - orderbook : [orderbook](https://github.com/0xhappyboy/orderbook)
 - multi-panel : [multipanel](https://github.com/0xhappyboy/multi-panel)
 
+### Experiment
+
+- moziOS (An experimental project exploring the possibilities of a composable, self-programmable, and self-evolving operating system based on artificial intelligence.) : [moziOS](https://github.com/0xhappyboy/moziOS)
+
 ### Other Project
 
 - x402 SDK : [x402-sdk](https://github.com/0xhappyboy/x402-sdk)
