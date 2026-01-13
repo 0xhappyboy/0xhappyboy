@@ -33,6 +33,7 @@
 
 ### Crates
 
+- hnswx (A library for implementing the hnsw algorithm.) : [hnswx](https://github.com/0xhappyboy/hnswx)
 - atomic-plus (type extensions for the atomic standard library.) : [atomic-plus](https://github.com/0xhappyboy/atomic-plus)
 
 ### AI Agent
