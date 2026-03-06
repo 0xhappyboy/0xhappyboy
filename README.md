@@ -10,6 +10,7 @@
 
 - candleview (A data visualization charts and draw graph engine for the financial industry) : [candleview](https://github.com/0xhappyboy/candleview)
 - bubble (Enterprise-level development framework.) : [bubble](https://github.com/0xhappyboy/bubble)
+- earthOS (The world information operating system, built on ArcGIS, allows users to view global data from a god-like perspective, including rich information such as population and real-time events, as well as geographic annotations for custom data.) : [earthOS](https://github.com/0xhappyboy/earthOS)
 - xcanvas (A high-performance canvas engine based on WebAssembly.) : [xcanvas](https://github.com/0xhappyboy/xcanvas)
 - Luminliquid (Financial transaction terminal) : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
 - Luminengine (Order book matching engine) : [luminengine](https://github.com/0xhappyboy/luminengine)
