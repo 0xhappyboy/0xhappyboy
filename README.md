@@ -59,7 +59,8 @@
 ### Block Chain Project
 
 #### Network SDK
-- Evm SDK : [evm-sdk](https://github.com/0xhappyboy/evm-sdk)
+- Evm SDK (An Ethereum Virtual Machine (EVM) network abstraction layer that provides complete blockchain interaction, smart contract analysis, mempool monitoring, and security auditing capabilities.) : [evm-sdk](https://github.com/0xhappyboy/evm-sdk)
+- Evm Client (A Lightweight EVM Client Rust library for seamless interaction with multiple EVM-compatible blockchains. Connect to 15+ chains with automatic RPC failover and built-in wallet support.) : [evm-client](https://github.com/0xhappyboy/evm-client)
 - Solana SDK : [solana-network-sdk](https://github.com/0xhappyboy/solana-network-sdk)
 - Aptos Network SDK : [aptos-network-sdk](https://github.com/0xhappyboy/aptos-network-sdk)
 - Sui Network SDK : [sui-network-sdk](https://github.com/0xhappyboy/sui-network-sdk)
