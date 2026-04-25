@@ -12,7 +12,6 @@
 - bubble (Enterprise-level development framework.) : [bubble](https://github.com/0xhappyboy/bubble)
 - langhub (An LLM application development framework based on Rust.) : [langhub](https://github.com/0xhappyboy/langhub)
 - earthOS (A global information decision-making operating system built on ArcGIS, allows users to view global data from a god-like perspective, including rich information such as population and real-time events, as well as geographic annotations for custom data.) : [earthOS](https://github.com/0xhappyboy/earthOS)
-- xcanvas (A high-performance canvas engine based on WebAssembly.) : [xcanvas](https://github.com/0xhappyboy/xcanvas)
 - Luminliquid (Financial transaction terminal) : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
 - Luminengine (Order book matching engine) : [luminengine](https://github.com/0xhappyboy/luminengine)
 - Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
