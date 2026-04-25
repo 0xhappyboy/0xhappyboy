@@ -14,7 +14,6 @@
 - earthOS (A global information decision-making operating system built on ArcGIS, allows users to view global data from a god-like perspective, including rich information such as population and real-time events, as well as geographic annotations for custom data.) : [earthOS](https://github.com/0xhappyboy/earthOS)
 - Luminliquid (Financial transaction terminal) : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
 - Luminengine (Order book matching engine) : [luminengine](https://github.com/0xhappyboy/luminengine)
-- Quaking (A high-performance financial arbitrage framework.) : [Quaking](https://github.com/0xhappyboy/Quaking)
 - LuminMQ (Message queue) : [luminmq](https://github.com/0xhappyboy/luminmq)
 
 ### System Tools
