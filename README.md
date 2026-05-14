@@ -9,9 +9,9 @@
 ### Main Project
 
 - candleview (A data visualization charts and draw graph engine for the financial industry) : [candleview](https://github.com/0xhappyboy/candleview)
-- bubble (Enterprise-level development framework.) : [bubble](https://github.com/0xhappyboy/bubble)
+- hippo (A reliable AI agent engine.🦛) : [hippo](https://github.com/0xhappyboy/hippo)
 - langhub (An LLM application development framework based on Rust.) : [langhub](https://github.com/0xhappyboy/langhub)
-- hippo (The most reliable AI Agent.🦛) : [hippo](https://github.com/0xhappyboy/hippo)
+- bubble (Enterprise-level development framework.) : [bubble](https://github.com/0xhappyboy/bubble)
 - earthOS (A global information decision-making operating system built on ArcGIS, allows users to view global data from a god-like perspective, including rich information such as population and real-time events, as well as geographic annotations for custom data.) : [earthOS](https://github.com/0xhappyboy/earthOS)
 - Luminliquid (Financial transaction terminal) : [Luminliquid](https://github.com/0xhappyboy/Luminliquid)
 - Luminengine (Order book matching engine) : [luminengine](https://github.com/0xhappyboy/luminengine)
