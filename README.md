@@ -1,13 +1,6 @@
 ## ☎️ Contact
 
-- 🐦 X : [@0xhappyboy\_](https://twitter.com/0xhappyboy_)
+- 🐦 X : [@0xhappyboy_](https://twitter.com/0xhappyboy_)
+- 🦋 Bsky : [0xhappyboy](https://bsky.app/profile/0xhappyboy.bsky.social)
 - 📦 Crates : [0xhappyboy](https://crates.io/users/0xhappyboy)
-- ⚙️ Npm : [happyboy\_](https://www.npmjs.com/~happyboy_)
-
-## 👀 Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xhappyboy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xhappyboy&layout=compact&theme=tokyonight&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=0xhappyboy&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+- ⚙️ Npm : [happyboy_](https://www.npmjs.com/~happyboy_)
